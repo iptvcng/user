@@ -180,6 +180,8 @@ https://streamer-1.toffeelive.com/live/sony_six_hd_720/index.m3u8
 https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD//master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1,Star Sports 1 (Opt-1)
 http://p5.giffy.be:8080/gabi12/gabi12/20730
+#EXTINF:-1,Star Sports 2 (Opt-2)
+http://43.251.86.2:8080/hls/channel_3.m3u8
 #EXTINF:-1,Abu Dhabi Sports 2
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
 #EXTINF:-1,Al Kass Sports 1
