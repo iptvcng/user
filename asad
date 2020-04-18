@@ -165,7 +165,7 @@ http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 #EXTINF:-1,Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
 #EXTINF:-1,Sony Ten 1 Opt-01)
-https://streamer-1.toffeelive.com/live/sony_ten1_hd_720/index.m3u8
+http://tvserver.roarzone.info:8082/55/index.m3u8
 #EXTINF:-1,Sony Ten 1 (Opt-02)
 https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
 #EXTINF:-1,Sony Ten 2 (Opt-02)
