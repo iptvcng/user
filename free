@@ -54,33 +54,33 @@ https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 #EXTINF:-1,Star Jalsha Movies
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
-#EXTINF:-Aakash Aath 
+#EXTINF:-1,Aakash Aath 
 http://103.205.133.42:1935/local/akash_aath_720/chunklist.m3u8
-#EXTINF:-Colors Bangla HD
+#EXTINF:-1,Colors Bangla HD
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
-#EXTINF:-Sony Aath (Opt-02)
+#EXTINF:-1,Sony Aath (Opt-02)
 http://103.205.133.42:1935/local/sony_aath_720/chunklist.m3u8
-#EXTINF:-Zee Bangla (Opt-1)
+#EXTINF:-1,Zee Bangla (Opt-1)
 http://103.205.133.42:1935/local/zee_bangla_720/playlist.m3u8
-#EXTINF:-Zee Bangla Cinema (Opt-01)
+#EXTINF:-1,Zee Bangla Cinema (Opt-01)
 https://streamer-1.toffeelive.com/live/zee_bangla_cinema_720/index.m3u8
-#EXTINF:-Tollywood TV
+#EXTINF:-1,Tollywood TV
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
-#EXTINF:-Jagoroni TV
+#EXTINF:-1,Jagoroni TV
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jagoronitv.stream/chunks.m3u8
-#EXTINF:-Orange Bangla
+#EXTINF:-1,Orange Bangla
 http://streamidvo.multitvsolution.in/OrangeTV-b/playlist.m3u8
-#EXTINF:-DD Bangla
+#EXTINF:-1,DD Bangla
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/ddbangla/index.m3u8
-#EXTINF:-ABP Ananda
+#EXTINF:-1,ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
-#EXTINF:-News 18 Bangla
+#EXTINF:-1,News 18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?sd=10&rebase=on&hdntl=~acl=%2f*~data=hdntl~hmac=665cdf608d16e4dc095fa701b5943e475579f4817210c76179d4a731bb8e62f2
 #EXTINF:-Zee 24 Ghanta
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/24ghanta/index.m3u8
-#EXTINF:-Sonic Bangla
+#EXTINF:-1,Sonic Bangla
 https://bracnet.iptv.jadoodigital.com:443/live/sonic/chunks.m3u8
-#EXTINF:-Nick (Bangla)
+#EXTINF:-1,Nick (Bangla)
 https://bracnet.iptv.jadoodigital.com:443/live/nickelodeon/chunks.m3u8
 #EXTINF:-1,Sony Yay
 https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
@@ -94,13 +94,13 @@ http://125.209.99.45:43568/BRN/CartoonNetwork.stream/chunklist_w903275600.m3u8
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 #EXTINF:-1,Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
-#EXTINF:-ATN Music
+#EXTINF:-A1,TN Music
 http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
-#EXTINF:-,Gaan Bangla
+#EXTINF:-1,Gaan Bangla
 https://bracnet.iptv.jadoodigital.com/live/gaan_bangla/chunks.m3u8
-#EXTINF:-RTV Music
+#EXTINF:-1,RTV Music
 http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
-#EXTINF:-Sangeet Bangla
+#EXTINF:-1,Sangeet Bangla
 https://bracnet.iptv.jadoodigital.com/live/sangeet_bangla/chunks.m3u8
 #EXTINF:-1,Sony Ten 1 Opt-01)
 http://103.205.133.42:1935/local/sony_ten1_hd_720/playlist.m3u8
